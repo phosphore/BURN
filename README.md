@@ -9,6 +9,7 @@ BURN has several operational modes:
   - `BURN -b` (burn) securely delete the script and exit. This will also clear the command history.
 
 ## TODO
+- parse /etc/syslog.conf entries, see http://doc.novsu.ac.ru/oreilly/tcpip/puis/ch10_05.htm
 - integration with Defiler's Toolkit (Necrofile and Klismafile, see https://grugq.github.io/docs/phrack-59-06.txt)
 - optional logwatch tampering
 - optional SNORT tampering
