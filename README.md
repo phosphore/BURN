@@ -1,4 +1,4 @@
-# BURN
+# [WIP] BURN
 An Anti-Forensics Toolkit to clear sensible logfiles on \*nix sistems, inspired by an [EquationGroup](https://github.com/adamcaudill/EquationGroupLeak)'s command which originally made sure "_you've cleaned up any temporary files you've left on the box_".
 
 ## USAGE
